@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Amalia Yasmin</h1>
-<h3 align="center">Second Year student of Computer Science (Bioinformatics) in Universiti Teknologi Malaysia.</h3>
+<h3 align="center">Third Year student of Computer Science (Bioinformatics) in Universiti Teknologi Malaysia.</h3>
 
 - 🌱 I’m currently learning **Database.**
 
