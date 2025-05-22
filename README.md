@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Database.**
 
-- 📫 How to reach me **amaliayasmin@graduate.utm.my**
+- 📫 How to reach me **amaliayasmin448@gmail.com**
 
-- ⚡ Fun fact **I am passionate with every project i am working on.**
+- ⚡ Fun fact **I am passionate with every project I am working on.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
